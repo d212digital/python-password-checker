@@ -1,7 +1,7 @@
 # python-password-checker
 Use the command line to check if a password has been hacked: 
 
-Simply download the file and run the command line prompt in the correct directory where the .py file is followed by your password arguments
+Simply download the file and run the command line prompt in the correct directory where the .py file is, followed by your password arguments
 
 Example
 
